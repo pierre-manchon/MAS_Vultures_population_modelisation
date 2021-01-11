@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T15:58:50.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="7g8H206Cb9bRysyxmEfz" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-11T16:01:54.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="f02X9C_seTOQfOypIpyq" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="-lD-G96jLOce70aQTZSf-0" />
         <mxCell id="-lD-G96jLOce70aQTZSf-1" parent="-lD-G96jLOce70aQTZSf-0" />
         <mxCell id="WAzPYX1y24yjzCGJKDm--48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="300" y="350" width="190" height="370" as="geometry" />
+          <mxGeometry x="300" y="350" width="190" height="310" as="geometry" />
         </mxCell>
         <mxCell id="WAzPYX1y24yjzCGJKDm--47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="100" y="350" width="190" height="90" as="geometry" />
@@ -423,7 +423,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-130" y="615" />
-              <mxPoint x="-130" y="763" />
+              <mxPoint x="-130" y="803" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -476,7 +476,7 @@
           <mxGeometry x="-95" y="677.5" width="70" height="15" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-1" value="si energie suffisante" style="endArrow=classicThin;html=1;endSize=8;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;rounded=0;sketch=0;shadow=0;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="8yyJoCRA739IWVxWXs2L-15" target="OKeTrEq2GPXzOtGkaMHF-0">
-          <mxGeometry x="-0.1999" y="10" relative="1" as="geometry">
+          <mxGeometry x="0.5385" relative="1" as="geometry">
             <mxPoint x="19.900000000000205" y="640" as="sourcePoint" />
             <mxPoint x="-10" y="690" as="targetPoint" />
             <Array as="points">
@@ -488,39 +488,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;container=0;fontColor=#ffffff;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-110" y="720" width="200" height="170" as="geometry" />
+          <mxGeometry x="-110" y="760" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=open;endFill=0;endSize=8;fontSize=36;strokeColor=#FF0000;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-5" target="OKeTrEq2GPXzOtGkaMHF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-5" value="Choisir au hasard une des proies mortes et visible" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-100" y="765" width="180" height="30" as="geometry" />
+          <mxGeometry x="-100" y="805" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=open;endFill=0;endSize=8;fontSize=36;strokeColor=#FF0000;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-6" target="OKeTrEq2GPXzOtGkaMHF-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-6" value="Incémenter le nombre de proies mangées" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-100" y="810" width="180" height="30" as="geometry" />
+          <mxGeometry x="-100" y="850" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-7" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=none;fontSize=36;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-25" y="720" width="30" height="30" as="geometry" />
+          <mxGeometry x="-25" y="760" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;shadow=0;fontSize=36;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="OKeTrEq2GPXzOtGkaMHF-7" parent="-lD-G96jLOce70aQTZSf-1" target="OKeTrEq2GPXzOtGkaMHF-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="780" as="targetPoint" />
+            <mxPoint x="-10" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=none;fontSize=36;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-25" y="860" width="30" height="30" as="geometry" />
+          <mxGeometry x="-25" y="900" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-12" value="Manger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontStyle=3" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="40" y="720" width="50" height="20" as="geometry" />
+          <mxGeometry x="40" y="760" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=classicThin;endFill=1;endSize=8;strokeColor=#000000;fontSize=36;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-28" target="OKeTrEq2GPXzOtGkaMHF-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-28" value="Faire un décompte du nombre de reproductions et de morts des proies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="315" y="420" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OKeTrEq2GPXzOtGkaMHF-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=classicThin;endFill=1;endSize=8;strokeColor=#000000;fontSize=36;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-29" target="OKeTrEq2GPXzOtGkaMHF-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-29" value="Faire un décompte du nombre de reproductions et de morts des prédateurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="315" y="485" width="160" height="50" as="geometry" />
@@ -532,6 +535,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OKeTrEq2GPXzOtGkaMHF-33" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=none;fontSize=36;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
+          <mxGeometry x="380" y="620" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKeTrEq2GPXzOtGkaMHF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=classicThin;endFill=1;endSize=8;strokeColor=#000000;fontSize=36;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-35" target="OKeTrEq2GPXzOtGkaMHF-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKeTrEq2GPXzOtGkaMHF-35" value="Lorsque l&#39;un des types d&#39;agents disparaît, la simulation s&#39;arrête" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
+          <mxGeometry x="315" y="550" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
