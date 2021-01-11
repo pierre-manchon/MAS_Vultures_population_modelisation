@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T16:06:34.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_EiZzddaUzjZeRN-JUxZ" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-11T16:08:52.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="g5-f8a-D6Poy3DRi3lrw" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YJ96Q_ON8Nzq6S2icYte" name="Diagramme d&#39;activité">
-    <mxGraphModel dx="2881" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-lD-G96jLOce70aQTZSf-0" />
         <mxCell id="-lD-G96jLOce70aQTZSf-1" parent="-lD-G96jLOce70aQTZSf-0" />
@@ -531,6 +531,16 @@
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=classicThin;endFill=1;endSize=8;strokeColor=#000000;fontSize=36;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-35" target="OKeTrEq2GPXzOtGkaMHF-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKeTrEq2GPXzOtGkaMHF-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=classicThin;endFill=1;endSize=8;strokeColor=#000000;fontSize=12;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-35" target="WAzPYX1y24yjzCGJKDm--1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="545" />
+              <mxPoint x="200" y="910" />
+              <mxPoint x="-830" y="910" />
+              <mxPoint x="-830" y="465" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-35" value="Lorsque l&#39;un des types d&#39;agents disparaît, la simulation s&#39;arrête" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="305" y="520" width="160" height="50" as="geometry" />
