@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T14:49:36.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="KpVsqqV5N7yaa5sMiJ2I" version="14.1.9" type="github" pages="4">
-  <diagram name="Diagramme de classes 1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+<mxfile host="app.diagrams.net" modified="2021-01-11T14:51:01.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_WxkdP1l2HTiADfTNPwG" version="14.1.9" type="github" pages="3">
+  <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
@@ -130,16 +130,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3xSrR683ULC1ZlCTOmop" name="Diagramme de classes 2">
-    <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="aoFQPwR_jK5bUHN78q-q-0" />
-        <mxCell id="aoFQPwR_jK5bUHN78q-q-1" parent="aoFQPwR_jK5bUHN78q-q-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="YJ96Q_ON8Nzq6S2icYte" name="Diagramme d&#39;activité">
-    <mxGraphModel dx="1527" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-lD-G96jLOce70aQTZSf-0" />
         <mxCell id="-lD-G96jLOce70aQTZSf-1" parent="-lD-G96jLOce70aQTZSf-0" />
