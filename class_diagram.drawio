@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T15:40:55.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="SslsunnZDK89y1_HWC6e" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-11T15:42:46.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="JHGr1_-GK0gfDOECBWx0" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YJ96Q_ON8Nzq6S2icYte" name="Diagramme d&#39;activité">
-    <mxGraphModel dx="1831" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-lD-G96jLOce70aQTZSf-0" />
         <mxCell id="-lD-G96jLOce70aQTZSf-1" parent="-lD-G96jLOce70aQTZSf-0" />
@@ -488,22 +488,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;container=0;fontColor=#ffffff;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-110" y="720" width="150" height="170" as="geometry" />
+          <mxGeometry x="-110" y="720" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=open;endFill=0;endSize=8;fontSize=36;strokeColor=#FF0000;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-5" target="OKeTrEq2GPXzOtGkaMHF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OKeTrEq2GPXzOtGkaMHF-5" value="Choisir au hasard une des proies mortes" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-100" y="765" width="130" height="30" as="geometry" />
+        <mxCell id="OKeTrEq2GPXzOtGkaMHF-5" value="Choisir au hasard une des proies mortes et visible" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
+          <mxGeometry x="-100" y="765" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=open;endFill=0;endSize=8;fontSize=36;strokeColor=#FF0000;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="OKeTrEq2GPXzOtGkaMHF-6" target="OKeTrEq2GPXzOtGkaMHF-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-6" value="Incémenter le nombre de proies mangées" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-100" y="810" width="130" height="30" as="geometry" />
+          <mxGeometry x="-100" y="810" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-7" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=none;fontSize=36;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-50" y="720" width="30" height="30" as="geometry" />
+          <mxGeometry x="-25" y="720" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;shadow=0;fontSize=36;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="OKeTrEq2GPXzOtGkaMHF-7" parent="-lD-G96jLOce70aQTZSf-1" target="OKeTrEq2GPXzOtGkaMHF-5">
           <mxGeometry relative="1" as="geometry">
@@ -511,10 +511,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=none;fontSize=36;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-50" y="860" width="30" height="30" as="geometry" />
+          <mxGeometry x="-25" y="860" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OKeTrEq2GPXzOtGkaMHF-12" value="Manger" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontStyle=3" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="-10" y="720" width="50" height="20" as="geometry" />
+          <mxGeometry x="40" y="720" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
