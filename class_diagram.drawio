@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T15:20:38.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Iw5rHSjTFW5Wo8kcx1kX" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-11T15:23:28.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="dDSltb6BIgjnc2n9Ye_g" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YJ96Q_ON8Nzq6S2icYte" name="Diagramme d&#39;activité">
-    <mxGraphModel dx="1245" dy="224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-lD-G96jLOce70aQTZSf-0" />
         <mxCell id="-lD-G96jLOce70aQTZSf-1" parent="-lD-G96jLOce70aQTZSf-0" />
@@ -206,11 +206,16 @@
         <mxCell id="WAzPYX1y24yjzCGJKDm--13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="200" y="720" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WAzPYX1y24yjzCGJKDm--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="WAzPYX1y24yjzCGJKDm--18" target="WAzPYX1y24yjzCGJKDm--46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WAzPYX1y24yjzCGJKDm--86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#FF3333;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="WAzPYX1y24yjzCGJKDm--18" target="WAzPYX1y24yjzCGJKDm--19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKeTrEq2GPXzOtGkaMHF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;jumpSize=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;shadow=0;startArrow=none;startFill=0;startSize=14;endArrow=classicThin;endFill=1;endSize=8;strokeColor=#000000;fontSize=36;" edge="1" parent="-lD-G96jLOce70aQTZSf-1" source="WAzPYX1y24yjzCGJKDm--18" target="WAzPYX1y24yjzCGJKDm--46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="545" />
+              <mxPoint x="320" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WAzPYX1y24yjzCGJKDm--18" value="Faire agir les prédateurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="135" y="520" width="160" height="50" as="geometry" />
