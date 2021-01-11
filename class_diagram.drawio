@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-11T14:52:40.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="VuxgxKhfIi1XCqo4joyK" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-11T14:53:32.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RbXbn4UWjhmMzwdyiRwW" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -136,10 +136,10 @@
         <mxCell id="-lD-G96jLOce70aQTZSf-0" />
         <mxCell id="-lD-G96jLOce70aQTZSf-1" parent="-lD-G96jLOce70aQTZSf-0" />
         <mxCell id="WAzPYX1y24yjzCGJKDm--48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="350" y="1210" width="230" height="90" as="geometry" />
+          <mxGeometry x="350" y="1100" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WAzPYX1y24yjzCGJKDm--47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="350" y="1120" width="230" height="90" as="geometry" />
+          <mxGeometry x="350" y="1010" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WAzPYX1y24yjzCGJKDm--46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="350" y="580" width="190" height="370" as="geometry" />
@@ -304,11 +304,11 @@
         <mxCell id="WAzPYX1y24yjzCGJKDm--59" value="Initialisation du modèle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontStyle=3" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="190" y="120" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WAzPYX1y24yjzCGJKDm--56" value="Faire le bilan journalier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="450" y="1210" width="130" height="20" as="geometry" />
+        <mxCell id="WAzPYX1y24yjzCGJKDm--56" value="Faire le bilan journalier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontStyle=3" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
+          <mxGeometry x="400" y="1100" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WAzPYX1y24yjzCGJKDm--55" value="Régénerer les ressources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
-          <mxGeometry x="440" y="1120" width="140" height="20" as="geometry" />
+        <mxCell id="WAzPYX1y24yjzCGJKDm--55" value="Régénerer les ressources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontStyle=3" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
+          <mxGeometry x="390" y="1010" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WAzPYX1y24yjzCGJKDm--54" value="Faire agir les prédateurs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontStyle=3" vertex="1" parent="-lD-G96jLOce70aQTZSf-1">
           <mxGeometry x="390" y="580" width="150" height="20" as="geometry" />
