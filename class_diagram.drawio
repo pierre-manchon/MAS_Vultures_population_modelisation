@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T13:01:05.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IQkCj6Cfs_92cdolqJRF" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-13T13:01:39.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="HglbFKbgcte5hlH9anSL" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -556,9 +556,6 @@
         <mxCell id="FI8z_-Cq8PHp00k3MRMn-19" value="«interface»&lt;br&gt;&lt;b&gt;Prédateur&lt;/b&gt;" style="html=1;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="320" y="40" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KbFuLJzAzOPaC6DdIc_N-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
-          <mxGeometry x="260" y="220" width="20" height="870" as="geometry" />
-        </mxCell>
         <mxCell id="KbFuLJzAzOPaC6DdIc_N-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#E6E6E6;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="150" y="280" width="20" height="40" as="geometry" />
         </mxCell>
@@ -573,7 +570,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oC2v3DhfdYq_EUNNzUx0-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#E6E6E6;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
-          <mxGeometry x="224.99" y="160" width="10" height="80" as="geometry" />
+          <mxGeometry x="240" y="160" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC2v3DhfdYq_EUNNzUx0-5" value="if [self size()]&lt;br&gt;growth" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;dashed=1;dashPattern=1 1;" edge="1" target="oC2v3DhfdYq_EUNNzUx0-4" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="-0.0768" relative="1" as="geometry">
