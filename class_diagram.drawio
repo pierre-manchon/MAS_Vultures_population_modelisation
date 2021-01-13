@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T12:56:17.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="lgBUHjy8whyaT_okLQly" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-13T12:59:12.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="MmJJLJVTF0nJ1yV8j8BA" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -557,16 +557,10 @@
           <mxGeometry x="320" y="40" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KbFuLJzAzOPaC6DdIc_N-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
-          <mxGeometry x="260" y="190" width="20" height="900" as="geometry" />
+          <mxGeometry x="260" y="220" width="20" height="870" as="geometry" />
         </mxCell>
         <mxCell id="KbFuLJzAzOPaC6DdIc_N-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
-          <mxGeometry x="260" y="150" width="20" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KbFuLJzAzOPaC6DdIc_N-2" value="&lt;i&gt;dynamic&lt;/i&gt;" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;dashPattern=1 1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CFrU_jUP3xaaMulCX0d9-1" target="KbFuLJzAzOPaC6DdIc_N-1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="160" y="170" as="sourcePoint" />
-            <mxPoint x="229" y="170" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="260" y="160" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KbFuLJzAzOPaC6DdIc_N-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#E6E6E6;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="154.97" y="230" width="20" height="40" as="geometry" />
@@ -580,10 +574,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oC2v3DhfdYq_EUNNzUx0-0" value="&lt;i&gt;if&amp;nbsp;&lt;/i&gt;" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;dashPattern=1 1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CFrU_jUP3xaaMulCX0d9-1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="160" y="150" as="sourcePoint" />
-            <mxPoint x="260" y="150.01000000000005" as="targetPoint" />
+        <mxCell id="oC2v3DhfdYq_EUNNzUx0-0" value="&lt;i&gt;if [self size()] growth&lt;/i&gt;" style="html=1;verticalAlign=bottom;endArrow=block;dashed=1;dashPattern=1 1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CFrU_jUP3xaaMulCX0d9-1">
+          <mxGeometry y="5" width="80" relative="1" as="geometry">
+            <mxPoint x="160" y="164.8" as="sourcePoint" />
+            <mxPoint x="260" y="164.81000000000006" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
