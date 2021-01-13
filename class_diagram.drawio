@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T13:05:07.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="k5Bk69juU1_zMoj0tBwA" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-13T13:05:57.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="WMZSU7VDNkOugzQcpZpS" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -559,7 +559,7 @@
         <mxCell id="KbFuLJzAzOPaC6DdIc_N-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#E6E6E6;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="150" y="630" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KbFuLJzAzOPaC6DdIc_N-10" value="if [self typesofagents()] changes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;dashPattern=1 1;" edge="1" target="KbFuLJzAzOPaC6DdIc_N-9" parent="CFrU_jUP3xaaMulCX0d9-1">
+        <mxCell id="KbFuLJzAzOPaC6DdIc_N-10" value="([self typesofagents()]) changes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;dashed=1;dashPattern=1 1;" edge="1" target="KbFuLJzAzOPaC6DdIc_N-9" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="-0.8182" y="10" relative="1" as="geometry">
             <mxPoint x="160" y="610" as="sourcePoint" />
             <Array as="points">
