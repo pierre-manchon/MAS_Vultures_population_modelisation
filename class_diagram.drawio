@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T13:28:50.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="28J1obslRZvcQeWT0goZ" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-13T13:30:32.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="2OcYUgNd4DQioVNBGFfi" version="14.1.9" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -519,7 +519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iXnMo9IfSfdoPnY5PXwL" name="Diagramme de séquence">
-    <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="CFrU_jUP3xaaMulCX0d9-0" />
         <mxCell id="CFrU_jUP3xaaMulCX0d9-1" parent="CFrU_jUP3xaaMulCX0d9-0" />
@@ -650,6 +650,29 @@
               <mxPoint x="332" y="520" />
             </Array>
             <mxPoint x="290" y="520" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC2v3DhfdYq_EUNNzUx0-43" value="if(energy suffisante())" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="CFrU_jUP3xaaMulCX0d9-1">
+          <mxGeometry x="-1" y="14" relative="1" as="geometry">
+            <mxPoint x="300.0000000000001" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="300" />
+            </Array>
+            <mxPoint x="310.0000000000001" y="320" as="targetPoint" />
+            <mxPoint x="-10" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oC2v3DhfdYq_EUNNzUx0-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#E6E6E6;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
+          <mxGeometry x="280" y="300" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2v3DhfdYq_EUNNzUx0-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
+          <mxGeometry x="290" y="320" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oC2v3DhfdYq_EUNNzUx0-46" value="newBorn=reproduction" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="CFrU_jUP3xaaMulCX0d9-1" target="FI8z_-Cq8PHp00k3MRMn-16">
+          <mxGeometry x="0.1667" y="-10" relative="1" as="geometry">
+            <mxPoint x="280" y="370" as="sourcePoint" />
+            <mxPoint x="200" y="370" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
