@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:42:44.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="nboJP2tK7wCDRLxAaFPg" version="14.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-14T11:42:54.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="muqeRFNk1H-eifkjaYlL" version="14.2.2" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -720,12 +720,6 @@
         <mxCell id="941zGLsT_u9a_W1sjSUt-1" value="«Simulation»&lt;br&gt;&lt;b&gt;Agent&lt;/b&gt;" style="html=1;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="502.5" y="50" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oUtcbWu0uk7-Khua64PO-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="CFrU_jUP3xaaMulCX0d9-1" vertex="1">
-          <mxGeometry x="540" y="530" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="941zGLsT_u9a_W1sjSUt-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
-          <mxGeometry x="540" y="570" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="941zGLsT_u9a_W1sjSUt-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="540" y="610" width="20" height="20" as="geometry" />
         </mxCell>
@@ -735,6 +729,12 @@
             <Array as="points" />
             <mxPoint x="550" y="90" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oUtcbWu0uk7-Khua64PO-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="CFrU_jUP3xaaMulCX0d9-1" vertex="1">
+          <mxGeometry x="540" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="941zGLsT_u9a_W1sjSUt-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
+          <mxGeometry x="540" y="570" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
