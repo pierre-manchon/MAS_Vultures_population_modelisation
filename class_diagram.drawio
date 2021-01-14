@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T12:20:31.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IT_WyUTsKrU9munNyhIC" version="14.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-14T12:20:58.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="K_1J4NczkfQGko4Ky28X" version="14.2.2" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -519,7 +519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iXnMo9IfSfdoPnY5PXwL" name="Diagramme de séquence">
-    <mxGraphModel dx="677" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="CFrU_jUP3xaaMulCX0d9-0" />
         <mxCell id="CFrU_jUP3xaaMulCX0d9-1" parent="CFrU_jUP3xaaMulCX0d9-0" />
@@ -576,7 +576,7 @@
         <mxCell id="oUtcbWu0uk7-Khua64PO-49" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" parent="CFrU_jUP3xaaMulCX0d9-1" vertex="1">
           <mxGeometry x="277.5" y="230" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUtcbWu0uk7-Khua64PO-50" value="End" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;dashPattern=1 1;entryX=1;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" parent="CFrU_jUP3xaaMulCX0d9-1" edge="1">
+        <mxCell id="oUtcbWu0uk7-Khua64PO-50" value="End" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;dashPattern=1 1;entryX=0.997;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="CFrU_jUP3xaaMulCX0d9-1" edge="1" target="oUtcbWu0uk7-Khua64PO-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="1080.09" as="sourcePoint" />
             <mxPoint x="60" y="1080" as="targetPoint" />
