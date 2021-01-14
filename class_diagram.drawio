@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T12:18:33.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="FlsbE2itgRIws8rIFZmg" version="14.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-14T12:19:08.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wgY1ECzrKPGcPxtQtDfX" version="14.2.2" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -748,7 +748,7 @@
         <mxCell id="941zGLsT_u9a_W1sjSUt-10" value="if(chasse =succeqsful)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="319.92" y="290" width="200.04" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="941zGLsT_u9a_W1sjSUt-11" value="&lt;span style=&quot;font-size: 12px&quot;&gt;getEnergy(prey)&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;labelBackgroundColor=none;exitX=1.004;exitY=0.277;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CFrU_jUP3xaaMulCX0d9-1" target="941zGLsT_u9a_W1sjSUt-12" source="oUtcbWu0uk7-Khua64PO-74">
+        <mxCell id="941zGLsT_u9a_W1sjSUt-11" value="&lt;span style=&quot;font-size: 12px&quot;&gt;setEnergy(self getEnergy())&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;labelBackgroundColor=none;exitX=1.004;exitY=0.277;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CFrU_jUP3xaaMulCX0d9-1" target="941zGLsT_u9a_W1sjSUt-12" source="oUtcbWu0uk7-Khua64PO-74">
           <mxGeometry x="0.0914" relative="1" as="geometry">
             <mxPoint x="327.57" y="360.08999999999986" as="sourcePoint" />
             <Array as="points">
