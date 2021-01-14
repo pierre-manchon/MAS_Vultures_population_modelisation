@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T11:42:54.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="muqeRFNk1H-eifkjaYlL" version="14.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-14T11:46:26.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="YxP-dZwTZsqOyNKHgXQE" version="14.2.2" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -553,7 +553,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oUtcbWu0uk7-Khua64PO-46" value="«Simulation»&lt;br&gt;&lt;b&gt;Agent&lt;/b&gt;" style="html=1;" parent="CFrU_jUP3xaaMulCX0d9-1" vertex="1">
+        <mxCell id="oUtcbWu0uk7-Khua64PO-46" value="«agent»&lt;br&gt;&lt;b&gt;Animal&lt;/b&gt;" style="html=1;" parent="CFrU_jUP3xaaMulCX0d9-1" vertex="1">
           <mxGeometry x="240" y="50" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oUtcbWu0uk7-Khua64PO-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#E6E6E6;" parent="CFrU_jUP3xaaMulCX0d9-1" vertex="1">
@@ -717,7 +717,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="941zGLsT_u9a_W1sjSUt-1" value="«Simulation»&lt;br&gt;&lt;b&gt;Agent&lt;/b&gt;" style="html=1;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
+        <mxCell id="941zGLsT_u9a_W1sjSUt-1" value="«child»&lt;br&gt;&lt;b&gt;Animal&lt;/b&gt;" style="html=1;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="502.5" y="50" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="941zGLsT_u9a_W1sjSUt-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#FFFFFF;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
