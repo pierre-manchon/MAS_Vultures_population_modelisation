@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T12:06:19.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="DuLpwYaVBu2biH2THWEm" version="14.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-14T12:15:06.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="mxBb5Xut69Z60o-BxAqh" version="14.2.2" type="github" pages="3">
   <diagram name="Diagramme de classes" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1422" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -519,7 +519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iXnMo9IfSfdoPnY5PXwL" name="Diagramme de séquence">
-    <mxGraphModel dx="569" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="92" dy="52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="CFrU_jUP3xaaMulCX0d9-0" />
         <mxCell id="CFrU_jUP3xaaMulCX0d9-1" parent="CFrU_jUP3xaaMulCX0d9-0" />
@@ -694,12 +694,12 @@
         <mxCell id="oUtcbWu0uk7-Khua64PO-73" value="if(distance proie &amp;lt;= distance vision)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CFrU_jUP3xaaMulCX0d9-1" vertex="1">
           <mxGeometry x="304.97" y="260" width="200.04" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="oUtcbWu0uk7-Khua64PO-75" value="&lt;span style=&quot;font-size: 12px&quot;&gt;getEnergy(prey)&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;labelBackgroundColor=none;" parent="CFrU_jUP3xaaMulCX0d9-1" target="oUtcbWu0uk7-Khua64PO-74" edge="1">
+        <mxCell id="oUtcbWu0uk7-Khua64PO-75" value="&lt;span style=&quot;font-size: 12px&quot;&gt;getEnergy(prey)&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;labelBackgroundColor=none;exitX=0.999;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" parent="CFrU_jUP3xaaMulCX0d9-1" target="oUtcbWu0uk7-Khua64PO-74" edge="1" source="oUtcbWu0uk7-Khua64PO-71">
           <mxGeometry x="0.1995" relative="1" as="geometry">
-            <mxPoint x="317.53" y="290" as="sourcePoint" />
+            <mxPoint x="317.57" y="300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="344.98999999999995" y="290" />
-              <mxPoint x="344.98999999999995" y="310" />
+              <mxPoint x="345" y="300" />
+              <mxPoint x="345" y="320" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -730,7 +730,7 @@
           <mxGeometry x="540.01" y="720.2" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oUtcbWu0uk7-Khua64PO-74" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" parent="CFrU_jUP3xaaMulCX0d9-1" vertex="1">
-          <mxGeometry x="309.86999999999995" y="310" width="15.03" height="40" as="geometry" />
+          <mxGeometry x="309.90999999999997" y="320" width="15.03" height="40" as="geometry" />
         </mxCell>
         <mxCell id="941zGLsT_u9a_W1sjSUt-7" value="if(energy == 0)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CFrU_jUP3xaaMulCX0d9-1">
           <mxGeometry x="309.91" y="840" width="90.08" height="25" as="geometry" />
